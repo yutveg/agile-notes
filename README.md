@@ -63,6 +63,10 @@ Using **empirical process control** in a cyclic, iterative fashion to turn ideas
 
 Product centric- not *project* centric.
 
+- **Process** - Iterative, cyclical, **empirical process control**.
+- **People** - Self organizing.
+- **Product** - Turning an idea into a usable end product.
+
 #### Why AGILE?
 - The market has begun requiring more highly complex systems, which AGILE is built to handle.
 - We want to generate value more efficiently.
