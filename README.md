@@ -82,7 +82,7 @@ Product centric- not *project* centric.
 
 <a href="#agile-workflow"></a>
 
-# Agile Workflow
+# AGILE Workflow
 
 #### Sprint Planning
 - Answer as many open questions/uncertainties as possible when building requirements.
