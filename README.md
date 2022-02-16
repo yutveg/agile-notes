@@ -59,8 +59,9 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 
 Process, people, product.
 
-Using **empirical process control** in a cyclic fashion to turn ideas into deliverables.
+Using **empirical process control** in a cyclic, iterative fashion to turn ideas into deliverables.
 
+Product centric- not *project* centric.
 
 #### Why AGILE?
 - The market has begun requiring more highly complex systems, which AGILE is built to handle.
