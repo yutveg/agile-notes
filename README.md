@@ -3,8 +3,8 @@
 Ongoing notes for the SCRUM Master Certification (CSM) courses.
 
 ### General Links 
-- [Agile Manifesto](http://agilemanifesto.org/iso/en/manifesto.html)
-- [Agile Principles](http://agilemanifesto.org/principles.html)
+- [AGILE Manifesto](http://agilemanifesto.org/iso/en/manifesto.html)
+- [AGILE Principles](http://agilemanifesto.org/principles.html)
 - [Scrum Guide](https://scrumguides.org/)
 
 
