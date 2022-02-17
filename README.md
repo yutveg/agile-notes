@@ -41,7 +41,7 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - **Empirical Process Control**: A more fluid, adaptable process for solving problems by which experience informs us on what to do next.
 - **Sprint Goal**: The purpose or target(s) of a sprint; the desired end result. Not limited to material results- could include lessons or new knowledge.
 - **Increment**: A concrete stepping stone toward the Product Goal. Tangible output, doesn't tell you anything about the overall outcome.
-Examples of increments:
+#### Examples of increments:
 - Customer value
 - Business value
 - Knowledge value
