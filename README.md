@@ -40,6 +40,16 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - **Defined Process Control**: Following a pre-defined process in a linear fashion to accomplish some goal. (Analyze, plan, execute, waterfall methodology is a real world example)
 - **Empirical Process Control**: A more fluid, adaptable process for solving problems by which experience informs us on what to do next.
 - **Sprint Goal**: The purpose or target(s) of a sprint; the desired end result. Not limited to material results- could include lessons or new knowledge.
+- **Increment**: A concrete stepping stone toward the Product Goal. Tangible output, doesn't tell you anything about the overall outcome.
+Examples of increments:
+- Customer value
+- Business value
+- Knowledge value
+
+
+5x Events 
+3x Artifacts - Product backlog, Sprint backlog, Increment
+3x Commitments - Product goal, Sprint goal, Definition of Done
 
 #### Types of problems
 - Simple (High certainty with business/technological requirements)
@@ -106,7 +116,11 @@ Responsibilities:
 
 <a href="#agile-workflow"></a>
 
-# Scrum Workflow
+# Scrum Workflow / Events
+
+#### Sprint
+
+Container event that defines a timebox for all other scrum events.
 
 #### Sprint Planning
 
@@ -141,6 +155,7 @@ Highly focused on the product. Receiving feedback from stakeholders. Determine i
 
 Inspect and adapt the interactions, processes, tooling, quality to reflect on what could have been done better.
 
+Select specific executable actions that will improve our process next sprint (if possible).
 
 # Elevator Pitch for scrum
 - Scrum is a framework that allows a team to learn and adapt their process overtime in order to better solve complex problems in a fast, iterative way to produce a better result sooner.
