@@ -12,9 +12,10 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 
 1. [Exam Details](#exam-details)
 2. [General Concepts](#general-concepts)
-3. [AGILE](#overview)
-4. [AGILE Roles](#roles)
-5. [AGILE Workflow](#agile-workflow)
+3. [AGILE/Scrum](#overview)
+4. [Scrum Roles](#scrum-roles)
+5. [Scrum Objects](#scrum-objects)
+6. [Scrum Events](#scrum-workflow)
 
 <a href="#exam-details"></a>
 
@@ -61,7 +62,7 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - Inspection: Are we able to analyze the different components/problems of our systems and extract useful information from them?
 - Adaptation: Course correction, changing approach as needed. Are we able to change our approach as our requirements change?
 
-# AGILE 
+# AGILE / Scrum
 
 
 #### What is AGILE?
@@ -75,6 +76,10 @@ Product centric- not *project* centric.
 - **Process** - Iterative, cyclical, **empirical process control**.
 - **People** - Self organizing.
 - **Product** - Turning an idea into a usable end product.
+
+#### What is Scrum?
+
+Scrum is a framework that allows a team to learn and adapt their process overtime in order to better solve complex problems in a fast, iterative way to produce a better result sooner. Scrum uses AGILE concepts and values.
 
 #### Why AGILE/Scrum?
 - The market has begun requiring more highly complex systems, which AGILE is built to handle.
@@ -112,18 +117,23 @@ Responsibilities:
 Responsibilities:
 - To build and develop the product according to the business requirements
 
-<a href="#agile-workflow"></a>
+<a href="#scrum-objects"></a>
+
+# Scrum Objects
+
+A scrum framework will contain:
+- 5x Events 
+- 3x Artifacts - Product backlog, Sprint backlog, Increment
+- 3x Commitments - Product goal, Sprint goal, Definition of Done
+
+<a href="#scrum-events"></a>
+
 
 # Scrum Workflow / Events
 
 #### Sprint
 
 Container event that defines a timebox for all other scrum events.
-
-**Contains**:
-- 5x Events 
-- 3x Artifacts - Product backlog, Sprint backlog, Increment
-- 3x Commitments - Product goal, Sprint goal, Definition of Done
 
 #### Sprint Planning
 
@@ -159,6 +169,3 @@ Highly focused on the product. Receiving feedback from stakeholders. Determine i
 Inspect and adapt the interactions, processes, tooling, quality to reflect on what could have been done better.
 
 Select specific executable actions that will improve our process next sprint (if possible).
-
-# Elevator Pitch for scrum
-- Scrum is a framework that allows a team to learn and adapt their process overtime in order to better solve complex problems in a fast, iterative way to produce a better result sooner.
