@@ -47,9 +47,7 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - Knowledge value
 
 
-5x Events 
-3x Artifacts - Product backlog, Sprint backlog, Increment
-3x Commitments - Product goal, Sprint goal, Definition of Done
+
 
 #### Types of problems
 - Simple (High certainty with business/technological requirements)
@@ -121,6 +119,11 @@ Responsibilities:
 #### Sprint
 
 Container event that defines a timebox for all other scrum events.
+
+**Contains**:
+- 5x Events 
+- 3x Artifacts - Product backlog, Sprint backlog, Increment
+- 3x Commitments - Product goal, Sprint goal, Definition of Done
 
 #### Sprint Planning
 
