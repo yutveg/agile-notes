@@ -8,7 +8,6 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - [Scrum Guide](https://scrumguides.org/)
 
 
-
 # Note Sections
 
 1. [Exam Details](#exam-details)
@@ -34,11 +33,13 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 <a href="#general-concepts"></a>
 
 # General Concepts
+- **Scrum**: A lightweight framework that adopts an AGILE approach and creates an adaptive structure for solving problems.
 - **Backlog**: A dynamically changing collection of pending tasks that are sorted by priority.
 - **Sprint Backlog**: A backlog where all tasks are planned to be done inside of a specific sprint.
 - **Timebox**: A timebox is a previously agreed period of time during which a person or a team works steadily towards completion of some goal.
 - **Defined Process Control**: Following a pre-defined process in a linear fashion to accomplish some goal. (Analyze, plan, execute, waterfall methodology is a real world example)
 - **Empirical Process Control**: A more fluid, adaptable process for solving problems by which experience informs us on what to do next.
+- **Sprint Goal**: The purpose or target(s) of a sprint; the desired end result. Not limited to material results- could include lessons or new knowledge.
 
 #### Types of problems
 - Simple (High certainty with business/technological requirements)
@@ -67,7 +68,7 @@ Product centric- not *project* centric.
 - **People** - Self organizing.
 - **Product** - Turning an idea into a usable end product.
 
-#### Why AGILE?
+#### Why AGILE/Scrum?
 - The market has begun requiring more highly complex systems, which AGILE is built to handle.
 - We want to generate value more efficiently.
 - We want to define business and technological requirements with a high level of certainty.
@@ -75,18 +76,71 @@ Product centric- not *project* centric.
 
 <a href="#roles"></a>
 
-# AGILE Roles
+# Scrum Roles
 
-#### Scrum Master Role
+#### Scrum Master Role - "The guide"
+**Definition**: Helps to lead and coordinate scrum practice within a scrum team.
+
+Responsibilities:
+- Helping others to get to their goals via scrum
+- Training team to follow scrum framework
+- Facilitate scrum events as needed
+- Help remove roadblocks/impediments
+- Aid team in being self-organizing 
+
+Additional Notes
 - To lead effectively, it's a good idea to communicate with your team directly about how they best work and design your process around that.
+
+#### Product Owner - "The what"
+**Definition**: A person who owns the product. 
+
+Responsibilities:
+- Define the Product Goal
+- Communicate the value of the product
+
+#### Developers - "The how"
+**Definition**: People who are building the product.
+
+Responsibilities:
+- To build and develop the product according to the business requirements
 
 <a href="#agile-workflow"></a>
 
-# AGILE Workflow
+# Scrum Workflow
 
 #### Sprint Planning
-- Answer as many open questions/uncertainties as possible when building requirements.
 
+1. Take items from the top of the product backlog
+2. Have a discussion about the items 
+3. Determine the **sprint goal**
+4. Define a plan for meeting the sprint goal
+
+Answer as many open questions/uncertainties as possible when building requirements.
+
+**Product Backlog**
+- Ordered in priority by the Product Owner mainly
+- Consists of items that create value for the product
+- Formulated to meet product goal
+
+Additional notes:
 - First sprint planning is going to be inaccurate- overtime estimations will get better as we set precedents and gain an idea of how long certain types of tasks will take.
 
 - Set definitions for the different columns in a sprint board. "Done" may be up to interpretation, for example, and the team needs to specify criteria for when a task/ticket gets moved into a column.
+
+#### Daily Scrum
+
+Daily meetings, roughly 15 minutes, with the intention to very quickly discuss progress and allow adjustments to the sprint plan as needed to best adhere to the sprint goal.
+
+#### Sprint Review
+
+Scrum team presents to the stakeholders the result of the sprint's work.
+
+Highly focused on the product. Receiving feedback from stakeholders. Determine if desired value was met.
+
+#### Sprint Retrospective
+
+Inspect and adapt the interactions, processes, tooling, quality to reflect on what could have been done better.
+
+
+# Elevator Pitch for scrum
+- Scrum is a framework that allows a team to learn and adapt their process overtime in order to better solve complex problems in a fast, iterative way to produce a better result sooner.
