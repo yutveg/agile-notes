@@ -12,7 +12,7 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 
 1. [Exam Details](#exam-details)
 2. [General Concepts](#general-concepts)
-3. [AGILE/Scrum](#overview)
+3. [AGILE/Scrum](#agile-scrum)
 4. [Scrum Roles](#scrum-roles)
 5. [Scrum Objects](#scrum-objects)
 6. [Scrum Events](#scrum-workflow)
@@ -62,7 +62,7 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - Inspection: Are we able to analyze the different components/problems of our systems and extract useful information from them?
 - Adaptation: Course correction, changing approach as needed. Are we able to change our approach as our requirements change?
 
-<a href="#overview"></a>
+<a href="#agile-scrum"></a>
 
 # AGILE / Scrum
 
