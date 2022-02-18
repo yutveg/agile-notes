@@ -128,9 +128,9 @@ Responsibilities:
 # Scrum Objects
 
 A scrum framework will contain:
-- 5x Events 
-- 3x Artifacts - Product backlog, Sprint backlog, Increment
-- 3x Commitments - Product goal, Sprint goal, Definition of Done
+- 5x Events - Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
+- 3x Artifacts - Product Backlog, Sprint Backlog, Increment
+- 3x Commitments - Product Goal, Sprint Goal, Definition of Done
 
 <a href="#scrum-events"></a>
 
