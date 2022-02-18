@@ -108,13 +108,17 @@ Additional Notes
 **Definition**: A person who owns the product. 
 
 Responsibilities:
+- "Build the right product"
 - Define the Product Goal
 - Communicate the value of the product
+- Ordering and reordering of the product backlog to maximize value
+
 
 #### Developers - "The how"
 **Definition**: People who are building the product.
 
 Responsibilities:
+- "Build the product right"
 - To build and develop the product according to the business requirements
 
 <a href="#scrum-objects"></a>
