@@ -62,6 +62,8 @@ Ongoing notes for the SCRUM Master Certification (CSM) courses.
 - Inspection: Are we able to analyze the different components/problems of our systems and extract useful information from them?
 - Adaptation: Course correction, changing approach as needed. Are we able to change our approach as our requirements change?
 
+<a href="#overview"></a>
+
 # AGILE / Scrum
 
 
